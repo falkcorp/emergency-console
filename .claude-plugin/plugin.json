@@ -1,0 +1,13 @@
+{
+  "name": "emergency-console",
+  "version": "1.0.0",
+  "description": "Always-on Claude Code emergency console that restarts other Claude sessions on command.",
+  "author": {
+    "name": "falkcorp",
+    "url": "https://github.com/falkcorp"
+  },
+  "homepage": "https://github.com/falkcorp/emergency-console",
+  "repository": "https://github.com/falkcorp/emergency-console",
+  "license": "MIT",
+  "keywords": ["claude-code", "session-management", "restart", "emergency"]
+}
